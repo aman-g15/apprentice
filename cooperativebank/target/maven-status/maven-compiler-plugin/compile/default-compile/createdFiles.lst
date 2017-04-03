@@ -1,0 +1,4 @@
+org/bank/aman/entities/RegularCustomer.class
+org/bank/aman/entities/Customer.class
+org/bank/aman/rest/Banking.class
+org/bank/aman/rest/impl/BankingImpl.class
